@@ -36,7 +36,7 @@ export default function HomePage() {
     <>
       <main className="min-h-screen bg-[#05070A] text-white flex flex-col items-center px-4 py-10 space-y-6">
         <div className="w-full max-w-md space-y-2 text-center">
-          <h1 className="text-xl font-semibold">OnlyTradeGreen</h1>
+          <h1 className="text-xl font-semibold">OnlyTradeGreen LIVE</h1>
           <p className="text-sm text-white/50">
             Follow real traders. No fake stats. No promises.
           </p>
